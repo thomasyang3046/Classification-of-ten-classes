@@ -1,1 +1,0 @@
-# Classification-of-ten-classes
